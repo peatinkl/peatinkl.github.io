@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://peatinkl.github.io/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/app/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/assets/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/css/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/data/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/includes/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/item/sitemap.peatinkl.gz
+Sitemap: https://peatinkl.github.io/src/sitemap.peatinkl.gz
